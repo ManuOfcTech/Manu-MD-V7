@@ -55,7 +55,7 @@ global.uang = {
 global.mess = {
 	error: 'Error!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-	done: 'Done'
+	done: 'Done...✓'
 }
 
 global.bot = {
