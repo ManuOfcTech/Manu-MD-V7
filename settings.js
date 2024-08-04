@@ -17,7 +17,7 @@ global.socialm = "GitHub: manulofficial7" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Manu-MD V7' //ur bot name
+global.botname = '𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼' //ur bot name
 global.ownernumber = ['94742274855'] //ur owner number, dont add more than one
 global.ownername = '⚖️𝐌𝐚𝐧𝐮𝐥 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥👨‍💻' //ur owner name
 global.websitex = "https://www.youtube.com/@ManulOfficialTech"
